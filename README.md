@@ -1,2 +1,1 @@
-# demoapp
-This is a demo App
+# Hello World
